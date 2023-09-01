@@ -1,2 +1,2 @@
 #!/bin/bash
-chmor -R a+x */
+chmor -R a+x*/
